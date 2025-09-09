@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Anthony Udeagbala  
 
-🚀 **Backend Engineer | API Integrator | Problem Solver**
+🚀 **Backend Engineer | Problem Solver**
 
 I'm a software engineer passionate about building scalable backend systems, syncing data across services, and crafting solutions that bridge business workflows with technology.  
 I mostly work with **Django**, **APIs**, and **React**, with a growing interest in automation, financial data reconciliation, and product-building.
