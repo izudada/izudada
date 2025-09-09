@@ -36,7 +36,7 @@ I mostly work with **Django**, **APIs**, and **React**, with a growing interest 
 - 💼 [LinkedIn](https://www.linkedin.com/in/izudada)  
 - 📝 [Portfolio](https://izudada.pythonanywhere.com)
 - 📝 [Blog](https://medium.com/@izudada)
-- ✉️ Reach me at: **tonyudeagbala@gmail.com*  
+- ✉️ Reach me at: *tonyudeagbala@gmail.com*  
 
 ---
 
